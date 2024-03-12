@@ -152,3 +152,20 @@ To create an ordered (numbered) list in Markdown, you can precede each line with
 2. Item 2
 3. Item 3
 
+Markdown will automatically number the items sequentially based on the order in which you list them.
+
+## Task lists
+
+To create a task list in Markdown, you can use a hyphen and space followed by square brackets ([ ]) for incomplete tasks. To mark a task as complete, replace the empty square brackets with [x]. Here's how you can do it:
+
+```
+- [x] Task List
+- [ ] Using Emojis
+- [ ] Nested List
+```
+#### output of Task list:
+- [x] Task List
+- [ ] Using Emojis
+- [ ] Nested List
+
+
