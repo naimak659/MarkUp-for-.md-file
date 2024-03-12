@@ -93,5 +93,13 @@ To format code or text into its own distinct block, use triple backticks:
 
 (You can specify the programming language for syntax highlighting after the triple backticks. For example, to specify CSS formatting, you would write ` ```css ` followed by the code block.)
 
+## Links
 
+To create an inline link, enclose the link text in square brackets [ ], followed by the URL in parentheses ( ). Alternatively, use the Command+K keyboard shortcut. You can also paste a URL from your clipboard over selected text to instantly create a link.
+
+```
+This is my github account [naimak659](https://github.com/naimak659)
+```
+#### output of Link:
+This is my github account [naimak659](https://github.com/naimak659)
 
