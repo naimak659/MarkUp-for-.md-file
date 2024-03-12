@@ -110,6 +110,16 @@ This is my github account [naimak659](https://github.com/naimak659)
 #### output of Link:
 This is my github account [naimak659](https://github.com/naimak659) `ks( mac: Command + K , win/lin: Ctrl + K )`
 
+## Relative links
+
+You can simplify navigation within your repository by defining relative links and image paths in your rendered files. A relative link is defined relative to the current file's location. For instance, if your repository's root contains a README file and a docs/CONTRIBUTING.md file, the relative link from README to CONTRIBUTING.md might appear like this:
+```
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+```
+GitHub dynamically adjusts relative links and image paths based on the current branch, ensuring they always point to the correct location. The link or path is relative to the current file's location. Links starting with / are relative to the repository root. You can utilize various relative link operands, including ./ and ../, for precise navigation.
+
+
+
 
 
 
