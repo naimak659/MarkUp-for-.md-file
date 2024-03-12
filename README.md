@@ -97,3 +97,9 @@ To format code or text into its own distinct block, use triple backticks:
 
 In issues, pull requests, and discussions, you can represent colors within a sentence by enclosing them in backticks. Supported color models inside backticks will be visually rendered for better comprehension.
 
+```
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+```
+
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
