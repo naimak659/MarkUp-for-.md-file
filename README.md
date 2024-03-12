@@ -126,7 +126,29 @@ To display an image, use an exclamation mark (!), followed by square brackets ([
 ```
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+## List
+
+To create an unordered list in Markdown, you can start each item with either a hyphen (-), an asterisk (*), or a plus sign (+). Here's how you can do it:
+
+```
+- Item 1
+* Item 2
++ Item 3
+```
+#### output of unordered list:
+- Item 1
+* Item 2
++ Item 3
 
 
-
+To create an ordered (numbered) list in Markdown, you can precede each line with a number followed by a period (.). Here's how you can do it:
+```
+1. Item 1
+2. Item 2
+3. Item 3
+```
+#### output of unordered list:
+1. Item 1
+2. Item 2
+3. Item 3
 
