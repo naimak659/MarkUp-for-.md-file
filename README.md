@@ -16,6 +16,9 @@ Markdown is a lightweight markup language used for formatting text in a simple a
 ## content
 1. [Headings](#headings)
 2. [Text Styling](#text-styling)
+3. [Quote](#quote)
+4. [Quoting code](#quoting-code)
+5. [Links](#links)
 
 ## Headings
 
