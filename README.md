@@ -101,5 +101,9 @@ To create an inline link, enclose the link text in square brackets [ ], followed
 This is my github account [naimak659](https://github.com/naimak659)
 ```
 #### output of Link:
-This is my github account [naimak659](https://github.com/naimak659)
+This is my github account [naimak659](https://github.com/naimak659) `ks( mac: Command + K , win/lin: Ctrl + K )`
+
+
+
+
 
