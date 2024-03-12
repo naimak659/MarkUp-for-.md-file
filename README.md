@@ -13,6 +13,10 @@ Markdown is a lightweight markup language used for formatting text in a simple a
 
 # Let's Start
 
+## content
+1. [Headings](#headings)
+2. [Text Styling](#text-styling)
+
 ## Headings
 
 To create a heading in Markdown, you can use one to six # symbols before your heading text. The number of # symbols you use will determine the hierarchy level and typeface size of the heading. 
