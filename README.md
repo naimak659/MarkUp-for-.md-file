@@ -118,7 +118,13 @@ You can simplify navigation within your repository by defining relative links an
 ```
 GitHub dynamically adjusts relative links and image paths based on the current branch, ensuring they always point to the correct location. The link or path is relative to the current file's location. Links starting with / are relative to the repository root. You can utilize various relative link operands, including ./ and ../, for precise navigation.
 
+## Images
 
+To display an image, use an exclamation mark (!), followed by square brackets ([ ]) containing the alt text (a brief description of the image), and then wrap the image link in parentheses (). Here's the format:
+```
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+```
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
