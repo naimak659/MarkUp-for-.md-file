@@ -168,4 +168,12 @@ To create a task list in Markdown, you can use a hyphen and space followed by sq
 - [ ] Using Emojis
 - [ ] Nested List
 
+## Emojis
+You can add emojis to your writing in Markdown by typing :EMOJICODE:, where "EMOJICODE" represents the name of the emoji you want to use, enclosed in colons. This allows you to easily incorporate emojis into your text to add emphasis or convey emotions.
+
+```
+:wave: Welcome to ***My Awesome Project!*** :rocket:
+```
+#### output of Emojis:
+:wave: Welcome to ***My Awesome Project!*** :rocket:
 
